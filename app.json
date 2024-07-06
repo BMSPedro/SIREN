@@ -1,0 +1,41 @@
+{
+  "id": "6d59b611-f12f-4610-a1d1-821e3028132b",
+  "name": "ALProject2",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+{
+  "id": "64c9d5e2-7744-4866-bc0e-5ebc2898e651",
+  "name": "Error Messages with Recommendations",
+  "publisher": "microsoft",
+  "version": "24.2.20227.20579"
+}
+
+
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
